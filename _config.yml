@@ -1,5 +1,9 @@
 theme: jekyll-theme-midnight
 
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
 # Gems
 plugins:
   - jekyll-avatar
