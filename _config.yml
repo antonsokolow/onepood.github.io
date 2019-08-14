@@ -1,1 +1,10 @@
 theme: jekyll-theme-midnight
+
+# Gems
+plugins:
+  - jekyll-avatar
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
