@@ -1,4 +1,13 @@
-theme: jekyll-theme-midnight
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Swift
+tagline:             Blog about iOS development
+url:                 https://onepood.github.io
+paginate:            10
+baseurl:             ""
+analytics_id:        
 
 sass:
   sass_dir:          _sass
