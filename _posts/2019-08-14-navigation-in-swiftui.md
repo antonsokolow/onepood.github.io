@@ -5,7 +5,7 @@ post: layout
 
 Навигация в *SwiftUI*.
 
-####A Master/Detail Navigation
+#### A Master/Detail Navigation
 
 ```swift
 struct ContentView: View {
@@ -34,7 +34,7 @@ struct DetailView: View {
 }
 ```
 
-####Programmatic navigation
+#### Programmatic navigation
 
 ```swift
 import SwiftUI
