@@ -3,8 +3,6 @@ title: Navigation in SwiftUI
 post: layout
 ---
 
-Навигация в *SwiftUI*.
-
 #### A Master/Detail Navigation
 
 ```swift
