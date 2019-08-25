@@ -23,7 +23,7 @@ class MyViewController: UIViewController {
 }
 ```
 
-Теперь созданим Storyboard, добавим ViewControlle и в качестве класса укажем наш MyViewController. Чтобы было совсем хорошо назовите Storyboard также, как контроллер, в нашем случае MyViewController.
+Теперь созданим Storyboard, добавим ViewController и в качестве класса укажем наш MyViewController. Чтобы было совсем хорошо, назовите Storyboard также, как контроллер, в нашем случае MyViewController.
 
 Для отображения контроллера на экране:
 
